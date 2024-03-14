@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/Tanke6003">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnowTrash&theme=dark">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanke6003&theme=dark">
 </a>
 
 ![Tanke6003 github stats](https://github-readme-stats.vercel.app/api?username=Tanke6003&show_icons=true&title_color=b3b3ff&icon_color=b380ff&text_color=9999ff&bg_color=400080)
