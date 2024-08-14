@@ -1,21 +1,10 @@
-### Hi there 👋
-<a href="https://github.com/Tanke6003">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanke6003&theme=dark">
+### Tanke6003 - Ruben Farias
+<div style="display:flex">
+<a href="https://github.com/Tanke6003" style="margin-right:auto" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanke6003&theme=dark" width="300" />
 </a>
+<a href="https://github.com/Tanke6003" style="margin-left:auto">
+  <img align="center"   src="https://github-readme-stats.vercel.app/api?username=Tanke6003&show_icons=true&title_color=007bff&icon_color=4a90e2&text_color=e0e0e0&bg_color=121212" width="500" />
+</a>
+</div>
 
-![Tanke6003 github stats](https://github-readme-stats.vercel.app/api?username=Tanke6003&show_icons=true&title_color=b3b3ff&icon_color=b380ff&text_color=9999ff&bg_color=400080)
-
-<!--
-**Tanke6003/Tanke6003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
