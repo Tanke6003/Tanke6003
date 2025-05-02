@@ -1,7 +1,4 @@
-<!-- Banner opcional o emoji personal -->
-<p align="center">
-  <img src="https://github.com/Tanke6003.png" alt="Avatar" width="100" style="border-radius:50%" />
-</p>
+
 
 <h1 align="center">Hi, I’m Ruben Farias 👋</h1>
 <p align="center">
