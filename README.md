@@ -44,14 +44,15 @@
   - **`Notes.md`** outlining responsibilities for Domain, Application, Infrastructure and Presentation layers  
   - **Best‑practice structure** to get up and running quickly with layered separation of concerns and test coverage straight out of the box 
 
-- **[ApiBaseNodeTS](https://github.com/Tanke6003/ApiBaseNodeTS)**  
+- **[api-ts-express](https://github.com/Tanke6003/api-ts-express)**  
   A TypeScript‑first Node.js API boilerplate designed for fast, production‑ready back‑end services. Key features:
-  - **Clear folder structure**: `src/controllers`, `src/services`, `src/plugins`  
-  - **Environment templates**: `.env.template` and `.env.test`  
-  - **Containerized dev**: `docker-compose.yml` for local databases or dependencies  
-  - **Testing out of the box**: Jest (`jest.config.ts`, `jest.setup.ts`) with sample tests under `tests/`  
+  - **Clear folder structure**: `src/presentation`, `src/domain`, `src/application`, `src/infrastructure`  
+  - **Environment templates**: `.env.template`, `.env.test` and `.env.dev`  
+  - **Containerized dev**: `docker-compose.yml` for local databases on mssql
+  - **Testing out of the box**: Jest (`jest.config.js`) with sample tests under `tests/`  
   - **CI/CD setup**: GitHub Actions workflows in `.github/workflows/`  
-  - **Data‑access agnostic**: no built‑in ORM, so you can plug in your preferred driver or query builder 
+  - **Data‑access agnostic**: no built‑in ORM, so you can plug in your preferred driver or query builder
+  - **API Documentation: Auto-generated API docs for easy backend interaction using openapi (`swagger` or `scalar`)
 ---
 
 ## 📊 GitHub Stats
