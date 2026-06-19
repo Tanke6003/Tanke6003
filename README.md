@@ -27,6 +27,7 @@ production systems. I enjoy turning complex requirements into clean, scalable ar
 - 🔧 Design and build RESTful APIs following Clean Architecture principles
 - ⚙️ Automate ETL processes and optimize systems for efficiency
 - 🌐 Deliver full-stack web apps end to end — Angular front-ends, Node.js / .NET back-ends
+- 👁️ Build computer-vision solutions with **OpenCV + Python on Raspberry Pi** — embedded image processing and hardware automation
 - 📚 Always exploring new technologies and better ways to solve problems
 
 ---
@@ -65,6 +66,14 @@ production systems. I enjoy turning complex requirements into clean, scalable ar
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+**Computer Vision & IoT**
+
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
