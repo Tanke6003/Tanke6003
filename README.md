@@ -39,6 +39,7 @@ production systems. I enjoy turning complex requirements into clean, scalable ar
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 **Back-end**
@@ -53,6 +54,7 @@ production systems. I enjoy turning complex requirements into clean, scalable ar
 
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
 **Databases, Cloud & Tools**
@@ -68,6 +70,16 @@ production systems. I enjoy turning complex requirements into clean, scalable ar
 ---
 
 ## 🚧 Featured Projects
+
+<a href="https://github.com/Tanke6003/cron-task">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanke6003&repo=cron-task&theme=tokyonight" alt="cron-task" />
+</a>
+<a href="https://github.com/Tanke6003/ApiBaseNetCore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanke6003&repo=ApiBaseNetCore&theme=tokyonight" alt="ApiBaseNetCore" />
+</a>
+<a href="https://github.com/Tanke6003/api-ts-express">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Tanke6003&repo=api-ts-express&theme=tokyonight" alt="api-ts-express" />
+</a>
 
 ### [cron-task](https://github.com/Tanke6003/cron-task)
 A lightweight TypeScript/JavaScript module for scheduling and managing recurring jobs
@@ -116,12 +128,20 @@ A TypeScript-first Node.js API boilerplate for fast, production-ready back-end s
   <img height="185em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanke6003&theme=tokyonight&utcOffset=-6" alt="Productive time" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tanke6003/Tanke6003/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tanke6003/Tanke6003/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Tanke6003/Tanke6003/output/github-snake.svg" />
+  </picture>
+</div>
+
 ---
 
 ## 📚 Currently Learning
 
 - Kubernetes
-- Python for data analysis
+- Data analysis with Pandas & NumPy
 - Flutter for mobile development
 
 ---
